@@ -1,0 +1,17 @@
+body{
+    background-color: burlywood;
+}
+input{
+    height: 40px;
+    width: 100%;
+   background-color: rgb(183, 170, 170)!important;
+    display: block;
+    margin: 10px 0px;
+    border: 1px solid rgb(56, 14, 116);
+    border-radius: 10px;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    outline: none;
+}.btn-primary{
+    background-color: rgb(163, 132, 17)!important;
+}
